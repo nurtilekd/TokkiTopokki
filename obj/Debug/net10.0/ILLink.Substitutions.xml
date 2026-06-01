@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="TokkiTopokki">
+    <resource name="FSharpSignatureData.TokkiTopokki" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.TokkiTopokki" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.TokkiTopokki" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.TokkiTopokki" action="remove"></resource>
+    <resource name="FSharpOptimizationData.TokkiTopokki" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.TokkiTopokki" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.TokkiTopokki" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.TokkiTopokki" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.TokkiTopokki" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.TokkiTopokki" action="remove"></resource>
+  </assembly>
+</linker>

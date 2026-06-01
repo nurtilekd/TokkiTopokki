@@ -1,0 +1,1 @@
+Collect all Topokkis (~) until Exit (E) becomes OPEN, and then use it to exit.

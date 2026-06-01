@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3UW5PLu9THM=",
+  "success": true,
+  "projectFilePath": "/home/st20230949/CS220/TokkiTopokki/TokkiTopokki.fsproj",
+  "expectedPackageFiles": [
+    "/home/st20230949/.nuget/packages/fsharp.core/10.1.201/fsharp.core.10.1.201.nupkg.sha512"
+  ],
+  "logs": []
+}
