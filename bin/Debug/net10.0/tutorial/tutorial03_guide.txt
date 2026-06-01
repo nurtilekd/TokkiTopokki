@@ -1,1 +1,0 @@
-Use teleports (A, B) to warp through space and access new sections.

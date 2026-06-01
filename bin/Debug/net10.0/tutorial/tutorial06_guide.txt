@@ -1,1 +1,0 @@
-You have used a teleport before, but boxes are entities just like you!
