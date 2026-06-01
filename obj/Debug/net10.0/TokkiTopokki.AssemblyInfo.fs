@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("TokkiTopokki")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40328d3ddbd89c28a26af9c5a77e6b3130fdbc18")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+900b3eba03969fc23148461eb1861f66ccb9b7ac")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("TokkiTopokki")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("TokkiTopokki")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]

@@ -41,3 +41,7 @@
 /home/st20230949/CS220/TokkiTopokki/obj/Debug/net10.0/TokkiTopokki.pdb
 /home/st20230949/CS220/TokkiTopokki/obj/Debug/net10.0/TokkiTopokki.genruntimeconfig.cache
 /home/st20230949/CS220/TokkiTopokki/obj/Debug/net10.0/ref/TokkiTopokki.dll
+/home/st20230949/CS220/TokkiTopokki/bin/Debug/net10.0/levels/level02.txt
+/home/st20230949/CS220/TokkiTopokki/bin/Debug/net10.0/levels/level04.txt
+/home/st20230949/CS220/TokkiTopokki/bin/Debug/net10.0/levels/level05.txt
+/home/st20230949/CS220/TokkiTopokki/bin/Debug/net10.0/levels/level10.txt
